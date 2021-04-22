@@ -1,0 +1,7 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csprojAssemblyReference.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb
