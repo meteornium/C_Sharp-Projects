@@ -15,7 +15,7 @@ namespace BranchingAssignment
 
             if (weight > 50)
             {
-                Console.WriteLine("Package to heavy to be shipped via Pacakge express. Have a good day.");
+                Console.WriteLine("Package too heavy to be shipped via Package express. Have a good day.");
                 Console.ReadLine();
                 System.Environment.Exit(1);
             }
@@ -28,6 +28,14 @@ namespace BranchingAssignment
 
             Console.WriteLine("Enter package length:");
             int length = Convert.ToInt32(Console.ReadLine());
+
+            int total = width + length + height;
+            if (total > 50)
+            {
+                Console.WriteLine("Package too big to be shipped via Package express. Have a good day.");
+                Console.ReadLine();
+                System.Environment.Exit(1);
+            }
 
             decimal quote = ((width * height * length) * weight) / 100m;
 
