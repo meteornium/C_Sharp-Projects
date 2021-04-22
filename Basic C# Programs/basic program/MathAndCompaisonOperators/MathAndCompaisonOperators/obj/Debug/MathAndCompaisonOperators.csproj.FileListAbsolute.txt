@@ -1,0 +1,7 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MathAndCompaisonOperators\MathAndCompaisonOperators\bin\Debug\MathAndCompaisonOperators.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MathAndCompaisonOperators\MathAndCompaisonOperators\bin\Debug\MathAndCompaisonOperators.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MathAndCompaisonOperators\MathAndCompaisonOperators\bin\Debug\MathAndCompaisonOperators.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MathAndCompaisonOperators\MathAndCompaisonOperators\obj\Debug\MathAndCompaisonOperators.csprojAssemblyReference.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MathAndCompaisonOperators\MathAndCompaisonOperators\obj\Debug\MathAndCompaisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MathAndCompaisonOperators\MathAndCompaisonOperators\obj\Debug\MathAndCompaisonOperators.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MathAndCompaisonOperators\MathAndCompaisonOperators\obj\Debug\MathAndCompaisonOperators.pdb
