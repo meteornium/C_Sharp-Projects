@@ -1,0 +1,7 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csprojAssemblyReference.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
