@@ -23,7 +23,7 @@ namespace UserInputOperations
             Console.WriteLine("Your number plus 25 is..." + result.ToString());
 
             Console.WriteLine("Submit a number.");
-            double divide = Convert.ToInt32(Console.ReadLine());
+            int divide = Convert.ToInt32(Console.ReadLine());
             double quotient = divide / 12.5;
 
             Console.WriteLine("Your number divided by 12.5 is..." + quotient.ToString());
@@ -36,7 +36,7 @@ namespace UserInputOperations
 
             Console.WriteLine("Submit a number");
             int divider = Convert.ToInt32(Console.ReadLine());
-            double modulus = divider % 7;
+            int modulus = divider % 7;
 
             Console.WriteLine("The remainder of your number divided by 7 is..." + modulus.ToString());
             Console.ReadLine();

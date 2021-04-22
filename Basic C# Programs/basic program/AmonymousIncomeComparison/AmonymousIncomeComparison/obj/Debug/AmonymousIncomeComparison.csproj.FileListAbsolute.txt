@@ -1,0 +1,7 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\AmonymousIncomeComparison\AmonymousIncomeComparison\bin\Debug\AmonymousIncomeComparison.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\AmonymousIncomeComparison\AmonymousIncomeComparison\bin\Debug\AmonymousIncomeComparison.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\AmonymousIncomeComparison\AmonymousIncomeComparison\bin\Debug\AmonymousIncomeComparison.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\AmonymousIncomeComparison\AmonymousIncomeComparison\obj\Debug\AmonymousIncomeComparison.csprojAssemblyReference.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\AmonymousIncomeComparison\AmonymousIncomeComparison\obj\Debug\AmonymousIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\AmonymousIncomeComparison\AmonymousIncomeComparison\obj\Debug\AmonymousIncomeComparison.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\AmonymousIncomeComparison\AmonymousIncomeComparison\obj\Debug\AmonymousIncomeComparison.pdb
