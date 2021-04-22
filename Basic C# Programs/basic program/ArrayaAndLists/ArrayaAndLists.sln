@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayaAndLists", "ArrayaAndLists\ArrayaAndLists.csproj", "{47028C07-2136-4FBA-983C-4B84BD04178F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47028C07-2136-4FBA-983C-4B84BD04178F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47028C07-2136-4FBA-983C-4B84BD04178F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47028C07-2136-4FBA-983C-4B84BD04178F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47028C07-2136-4FBA-983C-4B84BD04178F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3151F4F8-7418-4549-A31D-08D2C45F4955}
+	EndGlobalSection
+EndGlobal
