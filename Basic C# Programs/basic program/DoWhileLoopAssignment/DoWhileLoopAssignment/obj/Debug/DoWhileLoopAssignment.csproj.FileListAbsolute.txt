@@ -1,0 +1,7 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\DoWhileLoopAssignment\DoWhileLoopAssignment\bin\Debug\DoWhileLoopAssignment.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\DoWhileLoopAssignment\DoWhileLoopAssignment\bin\Debug\DoWhileLoopAssignment.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\DoWhileLoopAssignment\DoWhileLoopAssignment\bin\Debug\DoWhileLoopAssignment.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\DoWhileLoopAssignment\DoWhileLoopAssignment\obj\Debug\DoWhileLoopAssignment.csprojAssemblyReference.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\DoWhileLoopAssignment\DoWhileLoopAssignment\obj\Debug\DoWhileLoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\DoWhileLoopAssignment\DoWhileLoopAssignment\obj\Debug\DoWhileLoopAssignment.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\DoWhileLoopAssignment\DoWhileLoopAssignment\obj\Debug\DoWhileLoopAssignment.pdb
