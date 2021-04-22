@@ -22,6 +22,7 @@ namespace BooleanLogicAssigment
 
             Console.WriteLine("Qualified?");
             Console.WriteLine(qualified);
+            Console.WriteLine("Press any key to exit program.");
             Console.ReadLine();
 
             System.Environment.Exit(1);
