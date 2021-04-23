@@ -1,0 +1,7 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\ExcetionHandling\ExcetionHandling\bin\Debug\ExcetionHandling.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\ExcetionHandling\ExcetionHandling\bin\Debug\ExcetionHandling.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\ExcetionHandling\ExcetionHandling\bin\Debug\ExcetionHandling.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\ExcetionHandling\ExcetionHandling\obj\Debug\ExcetionHandling.csprojAssemblyReference.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\ExcetionHandling\ExcetionHandling\obj\Debug\ExcetionHandling.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\ExcetionHandling\ExcetionHandling\obj\Debug\ExcetionHandling.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\ExcetionHandling\ExcetionHandling\obj\Debug\ExcetionHandling.pdb
