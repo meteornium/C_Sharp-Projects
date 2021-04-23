@@ -1,0 +1,7 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\Iteration\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\Iteration\Iteration\obj\Debug\Iteration.pdb
