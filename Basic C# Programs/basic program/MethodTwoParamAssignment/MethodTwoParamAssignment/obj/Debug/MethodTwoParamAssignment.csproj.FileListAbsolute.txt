@@ -1,0 +1,7 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodTwoParamAssignment\MethodTwoParamAssignment\bin\Debug\MethodTwoParamAssignment.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodTwoParamAssignment\MethodTwoParamAssignment\bin\Debug\MethodTwoParamAssignment.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodTwoParamAssignment\MethodTwoParamAssignment\bin\Debug\MethodTwoParamAssignment.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodTwoParamAssignment\MethodTwoParamAssignment\obj\Debug\MethodTwoParamAssignment.csprojAssemblyReference.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodTwoParamAssignment\MethodTwoParamAssignment\obj\Debug\MethodTwoParamAssignment.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodTwoParamAssignment\MethodTwoParamAssignment\obj\Debug\MethodTwoParamAssignment.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodTwoParamAssignment\MethodTwoParamAssignment\obj\Debug\MethodTwoParamAssignment.pdb
