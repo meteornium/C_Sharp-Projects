@@ -44,6 +44,7 @@ namespace StringsAndIntegersAssignment
             }
             finally
             {
+                Console.WriteLine("We have left the try/catch block");
                 Console.ReadLine();
             }
         }
