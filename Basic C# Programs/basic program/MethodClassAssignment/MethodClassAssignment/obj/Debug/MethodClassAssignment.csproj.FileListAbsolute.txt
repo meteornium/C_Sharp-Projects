@@ -1,0 +1,6 @@
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe.config
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.pdb
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.exe
+C:\Users\adamk\Documents\GitHub\C_Sharp_TTA_Projects\Basic C# Programs\basic program\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.pdb
