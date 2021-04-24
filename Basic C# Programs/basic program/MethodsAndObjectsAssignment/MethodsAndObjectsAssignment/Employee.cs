@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjectsAssignment
 {
-    class Employee : Person
+    class Employee : Person // this colon person allows employee to inherit the person class' behavior and properties
     {
-
+        public int Id { get; set; }
     }
 }

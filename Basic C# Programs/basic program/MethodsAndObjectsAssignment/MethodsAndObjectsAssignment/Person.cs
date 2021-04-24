@@ -8,6 +8,12 @@ namespace MethodsAndObjectsAssignment
 {
     class Person
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
 
+        public void SayName() // method for the person class that prints objects name
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName); 
+        }
     }
 }
