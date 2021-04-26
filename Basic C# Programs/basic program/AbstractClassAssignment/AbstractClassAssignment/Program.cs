@@ -18,6 +18,10 @@ namespace AbstractClassAssignment
 
             test.SayName(); // calling method on object
             Console.ReadLine();
+
+            // instantiatiating interface and calling method on the object
+            IQuittable quittableEmployee = new Employee();
+            quittableEmployee.Quit();
         }
     }
 }
