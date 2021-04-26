@@ -32,7 +32,7 @@ namespace AbstractClassAssignment
                 Id = 12345679
             };
 
-            Console.WriteLine(test == test2);
+            Console.WriteLine(test == test2); 
             Console.ReadLine();
         }
     }

@@ -19,28 +19,14 @@ namespace AbstractClassAssignment
             new NotImplementedException();
         }
 
-        public static bool operator== (Employee Id, Employee Id1)
+        public static bool operator== (Employee Identification1, Employee Identification2) // overloading == variable, returning a boolean
         {
-            if (Id.Id == Id1.Id)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return Identification1.Id == Identification2.Id;
         }
 
-        public static bool operator!= (Employee Id, Employee Id2)
+        public static bool operator!= (Employee Identification1, Employee Identification2) // overloading != variable, done so in order to satisfy overloading == variable
         {
-            if (Id.Id != Id2.Id)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return Identification1.Id != Identification2.Id;
         }
     }
 }
