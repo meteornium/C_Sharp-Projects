@@ -10,8 +10,18 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-
             Deck deck = new Deck();
+
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+
+            //List<int> numberList = new List<int>() { 1, 2, 3, 4, 5 };
+
+            //int sum = numberList.Where(x => x > 3).Sum();
+
+            //Console.WriteLine(sum);
+
             deck.Shuffle(4);
 
             foreach (Card card in deck.Cards)
