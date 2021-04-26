@@ -25,10 +25,10 @@ namespace ParsingEnums
             {
                 Console.WriteLine("Please enter the current day of the week.");
                 string userInput = Console.ReadLine();
-                DaysOfTheWeek daysOf = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), userInput, true);
+                DaysOfTheWeek daysOf = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), userInput, true); // looks through enums to check for where user input matches. have true set to ignore typecase
                 Console.WriteLine("You entered: " + daysOf);
             }
-            catch (Exception ex)
+            catch (Exception ex) // this catch handles any incorrect inputs
             {
                 Console.WriteLine("Please enter an actual day of the week.");
             }
