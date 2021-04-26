@@ -18,5 +18,29 @@ namespace AbstractClassAssignment
         {
             new NotImplementedException();
         }
+
+        public static bool operator== (Employee Id, Employee Id1)
+        {
+            if (Id.Id == Id1.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public static bool operator!= (Employee Id, Employee Id2)
+        {
+            if (Id.Id != Id2.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }
