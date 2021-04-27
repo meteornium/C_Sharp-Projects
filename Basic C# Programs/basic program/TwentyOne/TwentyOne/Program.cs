@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -22,7 +23,7 @@ namespace TwentyOne
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
-                while (player.isActivelyPlaying && player.Balance >0)
+                while (player.isActivelyPlaying && player.Balance > 0)
                 {
                     game.Play();
                 }

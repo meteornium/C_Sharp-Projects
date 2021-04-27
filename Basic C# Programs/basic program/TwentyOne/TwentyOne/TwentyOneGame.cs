@@ -77,7 +77,14 @@ namespace TwentyOne
                     Console.WriteLine("Your cards are: ");
                     foreach (Card card in player.Hand)
                     {
-                        Console.Write("{0} ", card.ToString());
+                        if (card.Suit == player.Hand.Last().Suit && card.Face == player.Hand.Last().Face)
+                        {
+                            Console.Write("{0}", card.ToString());
+                        }
+                        else
+                        {
+                            Console.Write("{0}, ", card.ToString());
+                        }                        
                     }
                     Console.WriteLine("\n\nHit or stay?");
                     string answer = Console.ReadLine().ToLower();
