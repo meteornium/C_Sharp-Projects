@@ -10,25 +10,26 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-
-            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
-
-            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-
-            //List<int> numberList = new List<int>() { 1, 2, 3, 4, 5 };
-
-            //int sum = numberList.Where(x => x > 3).Sum();
-
-            //Console.WriteLine(sum);
-
-            deck.Shuffle(4);
-
-            foreach (Card card in deck.Cards)
+            Console.WriteLine("Welcome to the Game Corner. Please tell me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("How much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "ya" || answer == "y")
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance >0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thanks for playing!");
             }
-            Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine("Feel free to look around. Bye for now.");
             Console.ReadLine();
         }
     }
