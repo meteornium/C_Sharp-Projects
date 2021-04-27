@@ -12,7 +12,7 @@ namespace ConstructorAssignment
         public Person(string name) : this(name, 50000)
         {
         }
-
+        // base person contructor. takes in a name and income input
         public Person(string name, int income)
         {
             Name = name;
