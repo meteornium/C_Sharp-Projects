@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Casino.Interfaces;
+using MyTwentyOne.Interfaces;
 
-namespace Casino.TwentyOne
+namespace MyTwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -24,11 +24,20 @@ namespace Casino.TwentyOne
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
 
-            Console.WriteLine("Place your bet!");
-
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bets!");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException("Security! Kick this person out!");
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
@@ -48,7 +57,7 @@ namespace Casino.TwentyOne
                         bool blackJack = TwentyOneRules.CheckForBlackJack(player.Hand);
                         if (blackJack)
                         {
-                            Console.WriteLine("Blackjack! {0} wins {1}!", player.Name, Bets[player]);
+                            Console.WriteLine("Blackjack! {0} wins {1}! Player balance is not {3}.", player.Name, Bets[player], player.Balance);
                             player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
                             return;
                         }
@@ -147,18 +156,18 @@ namespace Casino.TwentyOne
                 bool? playerWon = TwentyOneRules.CompareHands(player.Hand, Dealer.Hand);
                 if (playerWon == null)
                 {
-                    Console.WriteLine("Push! no one wins.");
+                    Console.WriteLine("Push! No one wins.");
                     player.Balance += Bets[player];
                 }
                 else if (playerWon == true)
                 {
-                    Console.WriteLine("{0} won {1}!", player.Name, Bets[player]);
+                    Console.WriteLine("{0} won {1}! {0}'s balance is now {2}.", player.Name, Bets[player], player.Balance);
                     player.Balance += (Bets[player] * 2);
                     Dealer.Balance -= Bets[player];
                 }
                 else
                 {
-                    Console.WriteLine("Dealer wins {0}!", Bets[player]);
+                    Console.WriteLine("Dealer wins {0}! {1}'s balance is now {2}.", Bets[player], player.Name, player.Balance);
                     Dealer.Balance += Bets[player];
                 }
                 Console.WriteLine("Play again?");
