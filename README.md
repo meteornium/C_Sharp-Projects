@@ -1,5 +1,5 @@
 # C# Projects
-Collection of C# Projects.
+Collection of C# Projects I have made. All made within Visual Studio.
 
 ## Projects
 
