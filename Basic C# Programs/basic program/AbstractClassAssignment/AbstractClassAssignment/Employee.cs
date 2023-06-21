@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    class Employee : Person, IQuittable
+    class Employee<T> : Person, IQuittable
     {
         public int Id { get; set; }
 
@@ -19,14 +19,16 @@ namespace AbstractClassAssignment
             new NotImplementedException();
         }
 
-        public static bool operator== (Employee Identification1, Employee Identification2) // overloading == variable, returning a boolean
-        {
-            return Identification1.Id == Identification2.Id;
-        }
+        public List<T> Things { get; set; }
 
-        public static bool operator!= (Employee Identification1, Employee Identification2) // overloading != variable, done so in order to satisfy overloading == variable
-        {
-            return Identification1.Id != Identification2.Id;
-        }
+        //public static bool operator== (Employee Identification1, Employee Identification2) // overloading == variable, returning a boolean
+        //{
+        //    return Identification1.Id == Identification2.Id;
+        //}
+
+        //public static bool operator!= (Employee Identification1, Employee Identification2) // overloading != variable, done so in order to satisfy overloading == variable
+        //{
+        //    return Identification1.Id != Identification2.Id;
+        //}
     }
 }
